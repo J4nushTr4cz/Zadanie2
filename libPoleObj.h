@@ -1,0 +1,1 @@
+void PoleObj(float a);
